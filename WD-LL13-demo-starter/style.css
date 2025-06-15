@@ -1,0 +1,12 @@
+/* Optional styling for the cat fact container */
+/* We'll add this class after fetch() works */
+
+.pretty-fact {
+  font-size: 1.2rem;
+  color: #333;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
